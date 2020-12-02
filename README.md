@@ -90,4 +90,5 @@ scp -i ~/.ssh/keyname.pem -r foldername ubuntu@ip:~/location
 9. As an added test, run the following command to display the html webpage within the terminal.
 ```bash
 curl privateip:3000
-```
+```    
+![curl](images/curl/png)
