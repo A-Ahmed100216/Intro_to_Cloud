@@ -79,3 +79,6 @@ scp -i ~/.ssh/keyname.pem filename ubuntu@ip:~/location
 ```bash
 scp -i ~/.ssh/keyname.pem -r foldername ubuntu@ip:~/location
 ```
+6. Amend the provisioning file, if necessary, to reflect any changes in paths which may have resulted from copying the files.
+7. Run the provisioning file.
+8. Navigate to the public ip address of the instance. The following page should be displayed on port 3000 and port 80.
