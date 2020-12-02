@@ -68,7 +68,7 @@ scp -i ~/.ssh/keyname.pem -r foldername ubuntu@ip:~/location
 ```
 
 # Task - Run Sparta Sample Node App on EC2
-1. Create an instance in AWS.
+1. Create an [instance](https://github.com/A-Ahmed100216/intro_to_cloud/blob/main/ec2_instances.md) in AWS.
 2. Connect to the instance
 3. Use scp to copy the provisioning file into the virtual machine.
 ```bash
