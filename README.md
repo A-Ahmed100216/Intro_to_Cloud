@@ -91,4 +91,4 @@ scp -i ~/.ssh/keyname.pem -r foldername ubuntu@ip:~/location
 ```bash
 curl privateip:3000
 ```    
-![curl](images/curl/png)
+![curl](images/curl.png)
