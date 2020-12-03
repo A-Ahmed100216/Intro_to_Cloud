@@ -7,6 +7,13 @@
 * Amazon Web Services is one of the leading providers of cloud computing.
 * Secure, cloud platform that offers a broad set of global cloud-based products.
 * Provides on-demand access to compute, storage, network, database and other IT resources and management tools.
+
+## Deployment
+Deployment is typically categorised into three main categories:
+* On-Premise – This type of deployment occurs on premise and entails building, deploying and maintaining physical servers.
+* Cloud / Public Cloud – The service provider hosts infrastructure and provisions to customers via the internet.
+* Hybrid - This is a mixture of both Cloud and on-premise where some tasks may be completed using the cloud, and others, typically tasks which prioritise discretion, may opt for on-premise.
+
 ## Advantages of the cloud
 1. Trade capital expense for variable expense-
   * Traditional model has a large up-front cost.
